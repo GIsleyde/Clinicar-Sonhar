@@ -1,0 +1,1 @@
+print("Ola seja bem vindo a clinica sonhar\nAqui voce tera disonivel varios especialistas renomados")
